@@ -1,11 +1,11 @@
-#Temperature Worksheet 
+# Temperature Worksheet 
 
-##To run the code: 
+## To run the code: 
 1. Download the repository
 2. Verify that you have a running php server
 3. Open the index.php file through the localhost server
 
-##The state of the project: 
+## The state of the project: 
 When I started planning the project, I had initially created an Logical Database Structure (LDS), which I realized was significantly more large scale than what would be realistic for the timeline of this project. 
 
 Initially my LDS looked like this: 
